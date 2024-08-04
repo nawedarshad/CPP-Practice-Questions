@@ -9,8 +9,7 @@ struct Height{
 int maxStruct(Height ppls[], int n){
     int max = INT_MIN;
     for (int i = 0; i < n; i++){
-        if (((ppls[i].feet*12) + ppls[i].inch) > max)
-        {
+        if (((ppls[i].feet*12) + ppls[i].inch) > max){
             max = ((ppls[i].feet*12) + ppls[i].inch);
         } 
     }
