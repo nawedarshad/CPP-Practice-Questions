@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-struct Rectangle
-{
+struct Rectangle{
     int top[2];
     int bottom[2];
 };
