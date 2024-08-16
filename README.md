@@ -12,3 +12,4 @@ update last:16 Aug 2024
 | 8.Reverse_linkedlist.cpp                                             | Easy               | Linked list                  |
 | 9.Reverse_sublist.cpp                                                | Medium             | Linked list                  |
 | 10.Paranthesis_check.cpp                                             | Easy               | Stack                        |
+| 11.ReverseStack.cpp                                                  | Easy               | Stack                        |
