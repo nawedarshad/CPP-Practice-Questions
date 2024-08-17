@@ -14,3 +14,4 @@ update last:16 Aug 2024
 | 10.Paranthesis_check.cpp                                             | Easy               | Stack                        |
 | 11.ReverseStack.cpp                                                  | Easy               | Stack                        |
 | 12.Linkedlist_sum.cpp                                                | Medium             | Linked list                  |
+| 13.Stack_with_Linkedlist.cpp                                         | Medium             | Linked list                  |
